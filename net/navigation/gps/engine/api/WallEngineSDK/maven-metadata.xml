@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>net.navigation.gps.engine.api</groupId>
-  <artifactId>WallEngineSDK</artifactId>
+  <groupId>link.image.document.scan.api</groupId>
+  <artifactId>ScanEngineSDK</artifactId>
   <versioning>
-    <release>1.4.1</release>
+    <release>1.4.3</release>
     <versions>
-      <version>1.4.1</version>
+      <version>1.4.2</version>
+      <version>1.4.3</version>
     </versions>
-    <lastUpdated>20210707055625</lastUpdated>
+    <lastUpdated>20210708075628</lastUpdated>
   </versioning>
 </metadata>
